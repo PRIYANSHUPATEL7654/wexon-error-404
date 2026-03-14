@@ -8,6 +8,12 @@ Many businesses still rely on manual registers, spreadsheets, or fragmented trac
 
 The platform focuses on operational clarity, stock accuracy, and traceability of every inventory movement.
 
+
+Important Note:  
+In the video, the frontend is executed directly in development mode instead of running the built production version. Because of this, during the demo there may be a short delay while the application compiles. This happens due to the heavy load caused by running both Spring Boot and Next.js servers simultaneously.
+
+
+
 ---
 
 # Vision
